@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ampere</h1>
+<h1 align="center">Hello Mates 👋, I'm Ampere</h1>
 <h3 align="center">A passionate Fivem and REDM developer, I am also discord bot developer and also a front developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampere4u&label=Profile%20views&color=0e75b6&style=flat" alt="iampere4u" /> </p>
