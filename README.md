@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/i_am_not_pere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_am_not_pere/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ampframework1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ampframework1729" height="30" width="40" /></a>
+<a href="https://youtube.com/@ampframework1729?si=3_POdualiNZEkq0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ampframework1729" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/YhCdRvJ6Wm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/YhCdRvJ6Wm" height="30" width="40" /></a>
 </p>
 
