@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampere4u&label=Profile%20views&color=0e75b6&style=flat" alt="iampere4u" /> </p>
 
-- 🔭 I’m currently working on **Fivem PvP Server**
+- ⚡ Buy my Scripts here **[Tebex](https://ampfwredm.tebex.io/)**
+
+- 🔭 I’m currently working on **FIVEM/REDM Server**
 
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Lua, Pyhton, React, Node, Sql**
 
 - 📫 How to reach me **gunslingerofficial18@gmail.com**
-
-- ⚡ Fun fact **I am Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
